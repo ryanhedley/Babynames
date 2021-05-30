@@ -1,0 +1,2 @@
+##Babynames
+A simple Python 3 program, to help find similar names to a given starting name. It generates a text file from a Pandas dataframe. It uses data from [The United States Social Secruity Administration Top 100 Baby Names](https://www.ssa.gov/oact/babynames/names.zip). 
